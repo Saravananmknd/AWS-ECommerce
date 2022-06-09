@@ -7,7 +7,7 @@ Personal project<br />
  
 <img src="https://user-images.githubusercontent.com/100179829/172836644-beb54d83-1230-4949-a2b0-45eada0e9927.jpg" width="1000"><br />
 
-This project have 5 parts of different for a e-commerce company.<br /><br />
+This project have 5 different features for a e-commerce company.<br /><br />
 
 # Part 1: Order History app
 ![Picture1](https://user-images.githubusercontent.com/100179829/172833888-9680fae4-ab38-4efd-a4cc-dc5a96ed1b3c.jpg)<br />
